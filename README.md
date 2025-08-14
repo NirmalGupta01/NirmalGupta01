@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @NirmalGupta01
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, I’m @NirmalGupta013
 - 💞️ I’m looking to collaborate on web development project
 - 📫 To reach me 9811303730
 
